@@ -1,0 +1,4 @@
+services:
+  term_family:
+    class: Drupal\term_family\TermFamily
+    arguments: ['@entity_type.manager', '@entity_display.repository', '@current_route_match']

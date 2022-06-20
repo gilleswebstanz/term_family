@@ -1,0 +1,14 @@
+{
+  "name": "drupal/term_family",
+  "type": "drupal-module",
+  "description": "Fetches the relationships of a term.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/term_family",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/term_family",
+    "source": "http://cgit.drupalcode.org/term_family"
+  },
+  "require": { }
+}
