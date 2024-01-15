@@ -2,7 +2,7 @@ name: 'Term Family'
 type: module
 description: 'Fetches the relationships of a term.'
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 package: 'Taxonomy'
 dependencies:
   - taxonomy
